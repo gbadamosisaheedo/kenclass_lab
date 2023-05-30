@@ -1,13 +1,1 @@
-terraform,
-sonarqube,
-maven,
-nexus,
-linux,
-jenkin,s
-docker,
-kubernetes,
-github,
-gitbranching,
-aws,
-newrelic,
-loadbalancer,
+# Devops is good

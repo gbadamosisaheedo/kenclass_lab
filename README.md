@@ -1,0 +1,13 @@
+terraform
+sonarqube
+maven
+nexus
+linux
+jenkins
+docker
+kubernetes
+github
+gitbranching
+aws
+newrelic
+loadbalancer
